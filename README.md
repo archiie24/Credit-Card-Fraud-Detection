@@ -34,12 +34,6 @@ This project builds a **fully unsupervised fraud detection system** on highly im
 ## Tech Stack
 Python, NumPy, Pandas, scikit-learn, Matplotlib
 
-## Repository Structure
-credit-card-fraud-unsupervised/
-├── data/
-│   └── raw/
-│       └── creditcard.csv
-├── notebooks/
-│   └── fraud_detection_unsupervised.ipynb
-├── requirements.txt
+## Dataset
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 └── README.md
